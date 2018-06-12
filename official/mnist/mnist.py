@@ -189,6 +189,8 @@ def run_mnist(flags_obj):
     flags_obj: An object containing parsed flag values.
   """
 
+  flags_core.apply_clean(flags.FLAGS)
+
   model_function = model_fn
 
   if flags_obj.multi_gpu:
