@@ -1,0 +1,80 @@
+item {
+  id: 1
+  name: '100_SIGN'
+} 
+item {
+  id: 2
+  name: '110_SIGN'
+}
+item {
+  id: 3
+  name: '120_SIGN'
+} 
+item {
+  id: 4
+  name: '30_SIGN'
+}
+item {
+  id: 5
+  name: '50_SIGN'
+} 
+item {
+  id: 6
+  name: '60_SIGN'
+}
+item {
+  id: 7
+  name: '70_SIGN'
+} 
+item {
+  id: 8
+  name: '80_SIGN'
+}
+item {
+  id: 9
+  name: '90_SIGN'
+} 
+item {
+  id: 10
+  name: 'GIVE_WAY'
+}
+item {
+  id: 11
+  name: 'NO_PARKING'
+} 
+item {
+  id: 12
+  name: 'NO_STOPPING_NO_STANDING'
+}
+item {
+  id: 13
+  name: 'OTHER'
+} 
+item {
+  id: 14
+  name: 'PASS_EITHER_SIDE'
+}
+item {
+  id: 15
+  name: 'PASS_LEFT_SIDE'
+} 
+item {
+  id: 16
+  name: 'PASS_RIGHT_SIDE'
+}
+item {
+  id: 17
+  name: 'PEDESTRIAN_CROSSING'
+} 
+item {
+  id: 18
+  name: 'PRIORITY_ROAD'
+}
+item {
+  id: 19
+  name: 'STOP'
+} 
+item {
+  id: 20
+  name: 'URDBL'
+}
